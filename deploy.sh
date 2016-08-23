@@ -23,3 +23,13 @@ git push origin master
 
 # Come Back
 cd ..
+
+
+
+function commitSource(){
+	git add -A
+	git commit -m "$msg"
+	git push origin master
+}
+
+commitSource
