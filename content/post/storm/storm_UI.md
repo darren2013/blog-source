@@ -4,7 +4,7 @@
 
 
 ## Cluster Summary
-![Alt text](./1472743930681.png)
+![Alt text](../1472743930681.png)
 
  
 ## Topology代码设置
@@ -36,7 +36,7 @@ TopologyBuilder topologyBuilder = new TopologyBuilder();
 ```
 
 ## UI界面
-![Alt text](./1472961269432.png)
+![Alt text](../1472961269432.png)
 
 - Num workers = 3
 > 通过conf.setNumWorkers(3);进行设置
