@@ -1,7 +1,7 @@
 +++
 tags = ["bigdata", "storm"]
 categories = ["bigdata"]
-title = "torm UI解析"
+title = "storm UI解析"
 +++
 
 # storm UI解析
