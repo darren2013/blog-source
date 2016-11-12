@@ -25,8 +25,8 @@ copyright = "&copy; Copyright (c) 2016 - 2025, DarrenDu; all rights reserved"
     author = "darren"
     #avatar = "/path/to/avatar"
     contact = "mailto:ddf168913@gmail.com"
-    bio = "A java and Go enginer"
+    bio = "Java Go Bigdata"
     # Short subtitle/tagline. This is displayed in the header.
-    subtitle = "Short subtitle/tagline of your blog"
+    subtitle = "Life Work Study"
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
 
