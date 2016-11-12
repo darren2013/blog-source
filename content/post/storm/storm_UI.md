@@ -1,3 +1,9 @@
++++
+tags = ["bigdata", "storm"]
+categories = ["bigdata"]
+title = "torm UI解析"
++++
+
 # storm UI解析
 
 @(Storm)[storm]
