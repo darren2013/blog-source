@@ -4,11 +4,6 @@ categories = ["bigdata"]
 title = "storm UI解析"
 +++
 
-# storm UI解析
-
-@(Storm)[storm]
-
-
 ## Cluster Summary
 ![Alt text](../1472743930681.png)
 
